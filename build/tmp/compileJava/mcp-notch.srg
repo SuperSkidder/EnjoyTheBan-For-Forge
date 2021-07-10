@@ -1,0 +1,10 @@
+FD: buzz/gaoyusense/injection/mixins/MixinEntity/posX buzz/gaoyusense/injection/mixins/MixinEntity/s
+FD: buzz/gaoyusense/injection/mixins/MixinEntity/posY buzz/gaoyusense/injection/mixins/MixinEntity/t
+FD: buzz/gaoyusense/injection/mixins/MixinEntity/posZ buzz/gaoyusense/injection/mixins/MixinEntity/u
+FD: buzz/gaoyusense/injection/mixins/MixinEntity/rotationYaw buzz/gaoyusense/injection/mixins/MixinEntity/y
+FD: buzz/gaoyusense/injection/mixins/MixinEntity/rotationPitch buzz/gaoyusense/injection/mixins/MixinEntity/z
+FD: buzz/gaoyusense/injection/mixins/MixinEntity/onGround buzz/gaoyusense/injection/mixins/MixinEntity/C
+FD: buzz/gaoyusense/injection/mixins/MixinGui/zLevel buzz/gaoyusense/injection/mixins/MixinGui/e
+FD: buzz/gaoyusense/injection/mixins/MixinMinecraft/currentScreen buzz/gaoyusense/injection/mixins/MixinMinecraft/m
+FD: buzz/gaoyusense/injection/mixins/MixinMinecraft/session buzz/gaoyusense/injection/mixins/MixinMinecraft/ae
+MD: buzz/gaoyusense/injection/mixins/MixinRenderer/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z buzz/gaoyusense/injection/mixins/MixinRenderer/c (Lpk;)Z
